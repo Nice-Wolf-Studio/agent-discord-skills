@@ -1,0 +1,31 @@
+{
+  "name": "agent-discord-skills",
+  "version": "1.0.0",
+  "description": "Claude Code skills for the Discord API - Core messaging and channel management capabilities",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nice-Wolf-Studio/agent-discord-skills.git"
+  },
+  "keywords": [
+    "claude",
+    "claude-code",
+    "skills",
+    "discord",
+    "discord-api",
+    "bot",
+    "automation"
+  ],
+  "author": "Nice Wolf Studio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nice-Wolf-Studio/agent-discord-skills/issues"
+  },
+  "homepage": "https://github.com/Nice-Wolf-Studio/agent-discord-skills#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
